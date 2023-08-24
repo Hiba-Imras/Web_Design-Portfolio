@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--principal informatios of the Website below-->
+    <meta name="Author" content="Hiba Imras">
+    <meta name="Description" content="This is my first website using HTML after a lot of experiences,in order show my skills and adapting them more"
+    <title><b><u><i>WELCOME My Ladies and Gentlemen</i></u></b></title>
+</head>
+<br>
+<body width="100%" height="400px" background="c:\img"/><!--Background Page-->
+    <!--Start Page Of The Website-->
+    <div>
+        <hr>
+        <table border="7" width=70% height="600px">
+            <thead><!--Row1-->
+                <tr>
+                    <th align="center" colspan="3"><font color="green"><em><strong><u><font size="10,5">My Portfolio</font></u></strong></em></font></th>
+                </tr>
+            </thead><!--Row2-->
+            <hr><br>
+            <tbody>
+                <tr>
+                    <td rowspan="3"><b><u><font size="10"><font color="Black">Hi,I'm Hiba</font></font></u></b>
+                    <br>
+                    <u><strong><mark>I'm a Creative & Innovative Developer</mark></strong></u>
+                    </td>
+                    <td border="6">
+                        <img src="c:\Hiba.jpeg" alt="Professional Photo To Describe Hiba's Portfolio" width="100% height="600px"/>
+                    </td>  
+                    <td><!--Educational Criteria-->
+                    <h2 align="left"><Strong><u><font color="blue">Academic Background:</font></u></Strong></h2>
+                        <ol>
+                            <li>Baccalaureate in Economics (2021-2022)</li>
+                            <li>Finance, Accounting, and Taxation (1 year) at [Superior School of Technology] (2022-2023)</li>
+                        </ol>
+                        <ol>
+                            <font size="3"><li><b><em><u><font color="blue">Subjects and Skills Acquired - First Semester:</font></u></em></b></li></font>
+                                <ul>
+                                    <li>Applied Mathematics</li> 
+                                    <li>Management Information Systems</li>
+                                    <li> Macroeconomics</li>
+                                    <li>Management</li>
+                                </ul>
+                            <font size="3"><li><b><u><em><font color="blue">Subjects and Skills Acquired - Second Semester:</font></em></u></b></li></font>
+                                <ul>
+                                    <li>Probability</li>
+                                    <li>Statistics</li>
+                                    <li>Business Strategies</li>
+                                    <li>Marketing</li>
+                                </ul>
+                        </ol>
+                        <h1><b><em><u><font color="blue">Skills</font></u></em></b></h1>
+                           <ul>
+                               <li>Logical and Analytical Thinking</li>
+                               <li>Teamwork</li>
+                               <li>Responsibility</li>
+                           </ul>
+                        <h2><b><u><em><font color="blue">Online Certificates:</font></em></u></b></h2><!--Certificates Online From Coursera 1 Openclassroom-->
+                        <ul>
+                            <li>SAP Professional</li>
+                            <li>Introduction to HTML and CSS</li>
+                            <li>Learning to Program with JavaScript</li>
+                        </ul>
+                        <br>
+                        <hr>
+                        <font size="15"><button><u><i><font color="red">Contact Us:</font></i></u></button></font>
+                            <ul><font color="blue">
+                                <li><u>imrashiba@gmail.com</u></li>
+                                <li><u>0694668829</u></li>
+                                <li><u>0650550598</u></li>
+                                </font>
+                            </ul>
+                    </td>
+                </tr>                
+        </table>
+                
+            </tbody>
+            <tfoot>
+                <hr>
+                <hr>
+
+
+
+
+
+            </tfoot>
+    </div>
+</body><!--End-->
+</html>
